@@ -1,0 +1,1 @@
+alter table DIVE_LOG add DIVE_CENTER int not null;
